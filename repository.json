@@ -1,5 +1,5 @@
 {
-  "name": "Vlad's repository",
-  "url": "https://github.com/vkorn/hassio-addons",
-  "maintainer": "vkorn <vladkorniev@gmail.com>"
+  "name": "Gino's repository (duplicate of vkorn for 2nd st-mqtt instance)",
+  "url": "https://github.com/mrginogit/hassio-addons",
+  "maintainer": "Gino <gino@no.com>"
 }
